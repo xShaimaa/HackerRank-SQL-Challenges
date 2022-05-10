@@ -4,13 +4,13 @@
 My solutions of [HackerRank SQL challenges](https://www.hackerrank.com/domains/sql?badge_type=sql) executed on MySQL environment.
 
 ## Table of Contents
-| Sub Domain                        |
-|------------                       |
-| [Basic Select](#Basic-Select)     |
+| No. | Sub Domain                        |
+|-----|------------                       |
+| 01  | [Basic Select](#Basic-Select)     |
 
 ### Basic Select Challenges
 
-| Number | Challenges | Solutions |
+| No. | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 01 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL Solution](01-Basic-Select/Revising-the-select-Query-I.sql)
 | 02 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL Solution](01-Basic-Select/Revising-the-select-Query-II.sql)
